@@ -1,47 +1,6 @@
 # WEB - Masai E-Commerce with LS
 
-## Submission Instructions [Please note]
 
-## Maximum Marks - 10
-
-- The Submission should not contain spaces, for example,/js-101 folder/eval will not work
-- Do not push node_modules and package_lock.json to GitHub
-
-```
- ✅ able to submit the app - 1 mark ( minimum score )
- ✅ Check if the api call made - 1 marks.
- ✅ Check if the filter is working - 1 marks.
- ✅ Student is able to loop through the data and append in the dom  - 1 marks.
- ✅ Add a product to cart and check alert - 1 marks.
- ✅ Add same product to cart and check alert  - 1 marks.
- ✅ Go To cart page and check if able to show on dom & the total price is working fine  - 1 marks.
- ✅ Check the quantity part. See if the total gets updated when the quantity changes  - 2 marks.
- ✅ Check the delete part  - 1 marks.
-```
-
-## Installation
-
-- you can use any node version that works for you ( 14+ )
-- Download and unzip the boilerplate
-- Navigate to the correct path
-
-## Folder structure
-
-- index.html(Home Page)
-- cart.html(Cart Page)
-- Please Ignore all the other files except for the above-mentioned files.
-
-### You haven't taught cypress to run the test cases locally, you can see the passed/ failed test cases and test errors on CP itself.
-
-## Description
-
-#### Use the template provided below to write your code (Mandatory)
-
-### Some Rules to follow:-
-
-- Before writing a single line of code please read the problem statement very carefully.
-- Don't change the already given ids or classes.
-- If you don't follow these rules you might not get any marks even if you do everything correctly.
 
 ### Problem Statement:-
 
